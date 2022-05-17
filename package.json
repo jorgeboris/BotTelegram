@@ -25,6 +25,7 @@
     "jest": "^26.0.0"
   },
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "node-telegram-bot-api": "^0.57.0"
   }
 }
